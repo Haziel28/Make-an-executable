@@ -1,1 +1,5 @@
-
+Start by making a new folder on your desktop -  Now with a code of your own or the one I have provided Copy it. - Paste it onto your folder 
+- Within your file right click on the code you have saved in there - press properties and copy the location - Now open your command prompt -
+Type cd and then paste what you copied in properties and press enter - If you want to add an image copy one and paste it onto an ICO converter
+Once your image is converted put it within your file - Now in your command prompt type in pyinstaller -F -w -i (your images name).ico (your codes name).py
+Now open your folder and drag the dist file out and that is your new EXE feel free to delete the folder
