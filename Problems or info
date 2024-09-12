@@ -1,1 +1,4 @@
 Make sure git, pyinstaller and pip are installed.
+Your image needs to be around 32 x 32
+If you want to put an image in your executable it has to be an ICO File 
+Make sure it creates a window and its not just code or else it wont print anything.
